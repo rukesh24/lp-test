@@ -1,0 +1,1978 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.cambridge-landing-page-N3a {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL {
+  width: 100%;
+  height: 91.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .rectangle-29-zKr {
+  width: 151.2rem;
+  height: 84.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #e6f0ff;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .frame-1-WJC {
+  width: 52.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 67.1rem;
+  top: 5.2rem;
+  display: flex;
+  column-gap: 5.6rem;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .frame-1-WJC .about-cs2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3225;
+  color: #000000;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .frame-1-WJC .application-process-M3v {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3225;
+  color: #000000;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .frame-1-WJC .testimonials-UeL {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3225;
+  color: #000000;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .frame-1-WJC .faqs-Drp {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3225;
+  color: #000000;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .light-button-primary-text-MTE {
+  width: 17rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 124.2rem;
+  top: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #00a3ff;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem #00a3ff;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .dps-group-01-1-1-zFJ {
+  width: 31.4rem;
+  height: 9.6rem;
+  position: relative;
+  left: 10rem;
+  top: 1.6rem;
+  background-size: 107.377% 100.334%;
+  background-position: -1.1153rem -0.016rem;
+  background-image: url('../assets/dps-group-01-1-1-auv.png');
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-2-fMS {
+  box-sizing: border-box;
+  padding-top: 0.1rem;
+  width: 58.9rem;
+  height: 33.5rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 26rem;
+  border-radius: 10rem;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-2-fMS .lorem-ipsum-sit-amet-lorem-ipsum-aDW {
+  margin-bottom: 3rem;
+  max-width: 58.9rem;
+  display: flex;
+  font-size: 5rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #090909;
+  font-family: Lexend, 'Source Sans Pro';
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-2-fMS .lorem-ipsum-sit-amet-lorem-ipsum-sit-amet-lorem-ipsum-lorem-ipsum-sit-amet-ez4 {
+  margin-bottom: 4.8rem;
+  max-width: 52.7rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #090909;
+  font-family: Questrial, 'Source Sans Pro';
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-2-fMS .group-1-vwa {
+  width: 26.5rem;
+  height: 7.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #c83f3f;
+  border-radius: 10rem;
+  box-shadow: 0 0 5rem rgba(154, 218, 255, 0.5);
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-6-ZzY {
+  box-sizing: border-box;
+  padding: 3.9rem 5.8rem 3.8rem 5.8rem;
+  width: 116.6rem;
+  height: 13.7rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 77.4rem;
+  display: flex;
+  column-gap: 5rem;
+  align-items: center;
+  box-shadow: 0 0 2rem rgba(173, 159, 159, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-6-ZzY .rectangle-2-C1v {
+  width: 6rem;
+  height: 6rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-6-ZzY .rectangle-3-Jqe {
+  width: 6rem;
+  height: 6rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-6-ZzY .rectangle-4-RQU {
+  width: 6rem;
+  height: 6rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-6-ZzY .rectangle-5-L1e {
+  width: 6rem;
+  height: 6rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-6-ZzY .rectangle-6-FuJ {
+  width: 6rem;
+  height: 6rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-6-ZzY .rectangle-7-uyr {
+  width: 6rem;
+  height: 6rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-6-ZzY .rectangle-10-opL {
+  width: 6rem;
+  height: 6rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-6-ZzY .rectangle-8-pjS {
+  width: 6rem;
+  height: 6rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-6-ZzY .rectangle-9-mPn {
+  width: 6rem;
+  height: 6rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-6-ZzY .rectangle-11-WMN {
+  width: 6rem;
+  height: 6rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .mask-group-cfJ {
+  width: 49.3rem;
+  height: 49.3rem;
+  position: absolute;
+  left: 83.4rem;
+  top: 17.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-1758-Kpc {
+  width: 30.2247rem;
+  height: 13.4963rem;
+  position: absolute;
+  left: 114.1rem;
+  top: 22.2753rem;
+  box-shadow: 0 0 10rem rgba(0, 0, 0, 0.1000000015);
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-1758-Kpc .rectangle-27-Ewa {
+  width: 25.3rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 4.9247rem;
+  top: 2.2247rem;
+  box-shadow: 0 0 2rem rgba(173, 159, 159, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-1758-Kpc .opportunities-worldwide-MFW {
+  width: 14.4rem;
+  height: 6rem;
+  position: absolute;
+  left: 13.7247rem;
+  top: 3.5247rem;
+  display: flex;
+  font-size: 1.9rem;
+  font-weight: 500;
+  line-height: 1.5789473684;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #090909;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-1758-Kpc .rectangle-1-2sS {
+  width: 11.3rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 1.0244rem;
+  top: 0.9247rem;
+  box-shadow: 0 0 2rem rgba(173, 159, 159, 0.150000006);
+  background-color: #d5e6ff;
+  border-radius: 5.65rem;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-1758-Kpc .adobestock614586395-1-8fa {
+  width: 13.4962rem;
+  height: 13.4963rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-1760-3Xe {
+  width: 35.7rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 68.1rem;
+  top: 49.1rem;
+  border-radius: 2.5rem;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-1760-3Xe .rectangle-27-myS {
+  width: 34rem;
+  height: 10.3rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 1.4rem;
+  box-shadow: 0 0 10rem rgba(173, 159, 159, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-1760-3Xe .global-learning-community-6Vv {
+  width: 16.6rem;
+  height: 6rem;
+  position: absolute;
+  left: 16rem;
+  top: 3.6rem;
+  display: flex;
+  font-size: 1.9rem;
+  font-weight: 500;
+  line-height: 1.5789473684;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #090909;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-1760-3Xe .rectangle-28-aR6 {
+  width: 14.2rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0 10rem rgba(173, 159, 159, 0.150000006);
+  background-color: #ffe2e2;
+  border-radius: 2.5rem;
+}
+.cambridge-landing-page-N3a .auto-group-o18p-rzL .group-1760-3Xe .adobestock632613014-1-6uE {
+  width: 14.1078rem;
+  height: 10.7949rem;
+  position: relative;
+  left: 0.0461rem;
+  top: 1.1525rem;
+  background-size: 249.574% 142.258%;
+  background-position: -14.5282rem -3.0465rem;
+  background-image: url('../assets/adobestock632613014-1.png');
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY {
+  box-sizing: border-box;
+  padding: 7.4rem 11.25rem 8rem 11.25rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .group-4-GSL {
+  margin-bottom: 5.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .group-4-GSL .group-3-cm6 {
+  margin: 0rem 30.75rem 3.4rem 25.15rem;
+  width: calc(100% - 55.9rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .group-4-GSL .group-3-cm6 .about-us-jap {
+  margin-bottom: 1.6rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #a20606;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .group-4-GSL .group-3-cm6 .introducing-cambridge-curriculum-F3N {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .group-4-GSL .cambridge-international-prepares-school-students-for-life-helping-them-develop-an-informed-curiosity-and-a-lasting-passion-for-learning-cambridge-is-part-of-the-university-of-cambridge-cambridge-pathway-gives-students-a-clear-path-for-educational-success-from-age-5-to-19-dps-as-a-cambridge-school-we-believe-in-shaping-the-curriculum-around-how-our-students-learn-with-a-wide-range-of-subjects-and-flexible-ways-to-cambridge-has-to-offer-them-it-helps-students-discover-new-abilities-and-a-wider-world-and-gives-them-the-skills-they-need-for-life-so-they-can-achieve-at-school-university-and-work-YYG {
+  max-width: 128.7rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #080a12;
+  font-family: Nunito, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .image-2-b9A {
+  margin-bottom: 4.2rem;
+  width: 87.2rem;
+  height: 34.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .group-15-ija {
+  margin: 0rem 2.85rem 0rem 2.95rem;
+  width: calc(100% - 5.8rem);
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .group-15-ija .rectangle-12-EC8 {
+  width: 15.5rem;
+  height: 10.4rem;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .group-15-ija .rectangle-13-a16 {
+  width: 15.5rem;
+  height: 10.4rem;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .group-15-ija .rectangle-14-v4x {
+  width: 15.5rem;
+  height: 10.4rem;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .group-15-ija .rectangle-15-f2Y {
+  width: 15.5rem;
+  height: 10.4rem;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .group-15-ija .rectangle-16-bwn {
+  width: 15.5rem;
+  height: 10.4rem;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .group-15-ija .rectangle-17-9iQ {
+  width: 15.5rem;
+  height: 10.4rem;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-vcdr-xgY .group-15-ija .rectangle-18-uBn {
+  width: 15.5rem;
+  height: 10.4rem;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda {
+  margin-bottom: 6.4rem;
+  width: 100%;
+  height: 67.7rem;
+  position: relative;
+  background-color: #ffebeb;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ {
+  width: 98.1rem;
+  height: 34.2rem;
+  position: absolute;
+  left: 26.15rem;
+  top: 19.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .vector-2-4Tz {
+  margin: 0rem 0.1rem 2.4rem 0rem;
+  width: 18.7rem;
+  height: 5.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax {
+  margin-bottom: 2.8rem;
+  width: 100%;
+  height: 18.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-14-i2k {
+  margin-right: 9.85rem;
+  width: 17rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-14-i2k .rectangle-2-SjS {
+  margin: 0rem 3.55rem 3rem 3.45rem;
+  width: calc(100% - 7rem);
+  height: 10rem;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-14-i2k .group-7-mFv {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-14-i2k .group-7-mFv .step-1-XF6 {
+  margin: 0rem 0.1rem 0.8rem 0rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #a20606;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-14-i2k .group-7-mFv .step-1-name-E9W {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-13-X8c {
+  margin-right: 9.85rem;
+  width: 17.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-13-X8c .rectangle-3-rwa {
+  margin: 0rem 3.6rem 3rem 3.5rem;
+  width: calc(100% - 7.1rem);
+  height: 10rem;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-13-X8c .group-8-z2C {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-13-X8c .group-8-z2C .step-2-wi8 {
+  margin-bottom: 0.8rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #a20606;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-13-X8c .group-8-z2C .step-2-name-esS {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-12-kvU {
+  margin-right: 9.9rem;
+  width: 17.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-12-kvU .rectangle-4-VNG {
+  margin: 0rem 3.45rem 3rem 3.65rem;
+  width: calc(100% - 7.1rem);
+  height: 10rem;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-12-kvU .group-9-cSt {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-12-kvU .group-9-cSt .step-3-NS4 {
+  margin: 0rem 0rem 0.8rem 0.1rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #a20606;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-12-kvU .group-9-cSt .step-3-name-gSk {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-11-BuJ {
+  width: 17.3rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-11-BuJ .rectangle-5-jR2 {
+  margin: 0rem 3.55rem 3rem 3.75rem;
+  width: calc(100% - 7.3rem);
+  height: 10rem;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-11-BuJ .group-10-T68 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-11-BuJ .group-10-T68 .step-4-cDv {
+  margin-bottom: 0.8rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #a20606;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .frame-2-yax .group-11-BuJ .group-10-T68 .step-4-name-j3e {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .auto-group-6jvd-qsN {
+  margin: 0rem 12.85rem 0rem 11.85rem;
+  width: calc(100% - 24.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .auto-group-6jvd-qsN .vector-1-mm2 {
+  margin-right: 36rem;
+  width: 18.7rem;
+  height: 5.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-18-kCQ .auto-group-6jvd-qsN .vector-3-v88 {
+  width: 18.7rem;
+  height: 5.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-3-fE8 {
+  width: 68.8rem;
+  height: 9.8rem;
+  position: absolute;
+  left: 43.95rem;
+  top: 4.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-3-fE8 .application-process-kFa {
+  margin-bottom: 1.6rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #a20606;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .group-3-fE8 .learn-how-you-can-enroll-with-us-daG {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #1e1e1e;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .d-illustration-hand-putting-tick-paper-1-jNQ {
+  width: 22.3976rem;
+  height: 21.1282rem;
+  position: relative;
+  left: 122.0512rem;
+  top: 41.0556rem;
+  background-size: 121.918% 136.895%;
+  background-position: -3.2724rem -3.599rem;
+  background-image: url('../assets/d-illustration-hand-putting-tick-paper-1.png');
+}
+.cambridge-landing-page-N3a .auto-group-5gc3-dda .book-1-Pxk {
+  width: 24.3799rem;
+  height: 25.7987rem;
+  position: absolute;
+  left: 4.9912rem;
+  top: 5.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N {
+  margin: 0rem 20rem 9.5rem 14.1rem;
+  width: calc(100% - 34.1rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG {
+  margin-right: 14rem;
+  width: 49.4rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .contact-form-oFn {
+  margin-bottom: 2.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-10-HAx {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-10-HAx .group-29-RY4 {
+  margin-right: 2.4rem;
+  box-sizing: border-box;
+  padding: 1.1rem 2.35rem;
+  width: 23.5rem;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #5e6b74;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #e9faff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-10-HAx .group-28-G2t {
+  width: 23.5rem;
+  height: 100%;
+  background-color: #e9faff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-10-HAx .group-28-G2t .group-27-QPz {
+  width: 19.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-10-HAx .group-28-G2t .group-27-QPz .group-26-A8G {
+  margin-right: 1.3rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.5rem 1.1rem 0.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #bdefff;
+  background-color: #e9faff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-10-HAx .group-28-G2t .group-27-QPz .group-26-A8G .item-91-61v {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #5e6b74;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-10-HAx .group-28-G2t .group-27-QPz .group-26-A8G .vector-4-18t {
+  width: 0.8rem;
+  height: 0.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-10-HAx .group-28-G2t .group-27-QPz .phone-number-uzx {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #5e6b74;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .group-35-RTW {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 1.1rem 2.4rem;
+  width: 49.3rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #5e6b74;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #e9faff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-9-4mN {
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-9-4mN .group-32-cnt {
+  margin-right: 2.4rem;
+  box-sizing: border-box;
+  padding: 1.1rem 2.1rem 1.1rem 2.4rem;
+  width: 23.5rem;
+  height: 100%;
+  background-color: #e9faff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-9-4mN .group-32-cnt .group-30-wqA {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-9-4mN .group-32-cnt .group-30-wqA .curriculum-Jfi {
+  margin-right: 9.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #5e6b74;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-9-4mN .group-32-cnt .group-30-wqA .vector-4-q9r {
+  margin-top: 0.2rem;
+  width: 0.8rem;
+  height: 0.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-9-4mN .group-33-kXi {
+  box-sizing: border-box;
+  padding: 1.1rem 1.6rem 1.1rem 2.4rem;
+  width: 23.5rem;
+  height: 100%;
+  background-color: #e9faff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-9-4mN .group-33-kXi .group-31-HGk {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-9-4mN .group-33-kXi .group-31-HGk .grade-e7J {
+  margin-right: 13.9rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #5e6b74;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .frame-9-4mN .group-33-kXi .group-31-HGk .vector-4-wMJ {
+  margin-top: 0.2rem;
+  width: 0.8rem;
+  height: 0.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .auto-group-wxfd-G8g {
+  box-sizing: border-box;
+  padding-top: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .auto-group-wxfd-G8g .group-34-QEt {
+  margin: 0rem 0.1rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 2rem 2.8rem 2rem 2.4rem;
+  height: 12rem;
+  background-color: #e9faff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .auto-group-wxfd-G8g .group-34-QEt .please-enter-any-query-or-details-you-have-here-and-our-team-will-get-back-to-you-WYp {
+  max-width: 44.1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #5e6b74;
+  font-family: Lexend, 'Source Sans Pro';
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-37-FEG .frame-11-XSg .auto-group-wxfd-G8g .group-36-Bex {
+  width: 16.9rem;
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.1rem;
+  font-weight: 500;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #c83f3f;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-19-dmr {
+  margin-bottom: 2.3rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-19-dmr .group-3-PFE {
+  margin-bottom: 3.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-19-dmr .group-3-PFE .documents-required-XcL {
+  margin-bottom: 1.6rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #a20606;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-19-dmr .group-3-PFE .fill-the-form-and-reach-out-to-us-Rhi {
+  max-width: 49.2rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-sbw3-X3N .group-19-dmr .document-1-lorem-ipsum-sit-amet-document-2-lorem-ipsum-document-3-lorem-ipsum-sit-amet-lorem-ipsum-document-4-info-lipsum-document-5-info-lorem-ipsum-document-6-info-ipsum-sit-document-7-info-lorem-ipsum-sit-amet-Xkk {
+  max-width: 53.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa {
+  margin-bottom: 5rem;
+  box-sizing: border-box;
+  padding: 6rem 10.9rem 8.3rem 7.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e7f0ff;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .group-20-HNY {
+  margin: 0rem 40.85rem 6rem 44.25rem;
+  width: calc(100% - 85.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .group-20-HNY .testimonials-DGC {
+  margin: 0rem 0rem 1.6rem 0.1rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #a20606;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .group-20-HNY .what-our-students-say-KKE {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC {
+  width: 100%;
+  height: 30.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .testimonials-1-akx {
+  margin-right: 7.6rem;
+  width: 60.6rem;
+  height: 28.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG {
+  width: 64.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 {
+  margin-bottom: 4.1rem;
+  width: 100%;
+  height: 24rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-23-Qzt {
+  margin-right: 4rem;
+  box-sizing: border-box;
+  padding: 2.4rem 2.3rem 4.7rem 2.4rem;
+  width: 30.3rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/union-cqE.png');
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-23-Qzt .group-22-YLQ {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-23-Qzt .group-22-YLQ .frame-7-W2L {
+  margin: 0rem 7.3rem 2.1rem 0rem;
+  width: calc(100% - 7.3rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-23-Qzt .group-22-YLQ .frame-7-W2L .rectangle-2-2mN {
+  margin-right: 1.6rem;
+  width: 4rem;
+  height: 4rem;
+  background-color: #d9d9d9;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-23-Qzt .group-22-YLQ .frame-7-W2L .group-21-ZmJ {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-23-Qzt .group-22-YLQ .frame-7-W2L .group-21-ZmJ .james-smith-XCL {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-23-Qzt .group-22-YLQ .frame-7-W2L .group-21-ZmJ .student-eXr {
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  color: #e05000;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-23-Qzt .group-22-YLQ .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-the-point-of-using-lorem-ipsum-is-that-it-has-a-more-or-less-normal-distribution-of-letters-Nik {
+  max-width: 25.6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.1rem;
+  text-transform: lowercase;
+  color: #000000;
+  font-family: Nunito, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-23-Qzt .group-22-YLQ .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-the-point-of-using-lorem-ipsum-is-that-it-has-a-more-or-less-normal-distribution-of-letters-Nik .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-the-point-of-using-lorem-ipsum-is-that-it-has-a-more-or-less-normal-distribution-of-letters-Nik-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.1rem;
+  text-transform: lowercase;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-23-Qzt .group-22-YLQ .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-the-point-of-using-lorem-ipsum-is-that-it-has-a-more-or-less-normal-distribution-of-letters-Nik .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-the-point-of-using-lorem-ipsum-is-that-it-has-a-more-or-less-normal-distribution-of-letters-Nik-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.1rem;
+  text-transform: lowercase;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-24-ARe {
+  box-sizing: border-box;
+  padding: 2.4rem 2.3rem 4.7rem 2.4rem;
+  width: 30.3rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/union-Vt4.png');
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-24-ARe .group-22-hAg {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-24-ARe .group-22-hAg .frame-7-41E {
+  margin: 0rem 7.3rem 2.1rem 0rem;
+  width: calc(100% - 7.3rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-24-ARe .group-22-hAg .frame-7-41E .rectangle-2-z9n {
+  margin-right: 1.6rem;
+  width: 4rem;
+  height: 4rem;
+  background-color: #d9d9d9;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-24-ARe .group-22-hAg .frame-7-41E .group-21-8Fz {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-24-ARe .group-22-hAg .frame-7-41E .group-21-8Fz .james-smith-V6Y {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-24-ARe .group-22-hAg .frame-7-41E .group-21-8Fz .parent-26U {
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  color: #e05000;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-24-ARe .group-22-hAg .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-the-point-of-using-lorem-ipsum-is-that-it-has-a-more-or-less-normal-distribution-of-letters-MPe {
+  max-width: 25.6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.1rem;
+  text-transform: lowercase;
+  color: #000000;
+  font-family: Nunito, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-24-ARe .group-22-hAg .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-the-point-of-using-lorem-ipsum-is-that-it-has-a-more-or-less-normal-distribution-of-letters-MPe .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-the-point-of-using-lorem-ipsum-is-that-it-has-a-more-or-less-normal-distribution-of-letters-MPe-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.1rem;
+  text-transform: lowercase;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .frame-8-4w2 .group-24-ARe .group-22-hAg .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-the-point-of-using-lorem-ipsum-is-that-it-has-a-more-or-less-normal-distribution-of-letters-MPe .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-the-point-of-using-lorem-ipsum-is-that-it-has-a-more-or-less-normal-distribution-of-letters-MPe-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.1rem;
+  text-transform: lowercase;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .group-39-TzQ {
+  margin: 0 27.9rem;
+  width: calc(100% - 55.8rem);
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .group-39-TzQ .group-38-oHa {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .group-39-TzQ .ellipse-2-9MS {
+  width: 1.6rem;
+  height: 1.6rem;
+  background-color: #ffa26e;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .auto-group-d57z-NFa .auto-group-tzvr-ESC .group-1764-icG .group-39-TzQ .ellipse-3-gsA {
+  width: 1.6rem;
+  height: 1.6rem;
+  background-color: #ffa26e;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 {
+  margin: 0rem 14.2rem 17.1rem 14.3rem;
+  width: calc(100% - 28.5rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-hzbh-Xsn {
+  box-sizing: border-box;
+  padding: 0rem 32.1rem 5.8rem 31.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-hzbh-Xsn .group-44-sAx {
+  margin: 0rem 2.4rem 4rem 2.4rem;
+  width: calc(100% - 4.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-hzbh-Xsn .group-44-sAx .frequently-asked-questions-Pf6 {
+  margin: 0rem 0rem 1.6rem 0.1rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #a20606;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-hzbh-Xsn .group-44-sAx .get-every-general-answer-from-here-VCL {
+  max-width: 53.9rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-hzbh-Xsn .frame-13-bmA {
+  width: 100%;
+  height: 4.8rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-hzbh-Xsn .frame-13-bmA .group-36-wq2 {
+  width: 16.9rem;
+  height: 100%;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-hzbh-Xsn .frame-13-bmA .group-36-wq2 .group-47-JvU {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.1rem;
+  font-weight: 500;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #40baff;
+  border-radius: 1rem;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-hzbh-Xsn .frame-13-bmA .group-42-yWp {
+  width: 16.9rem;
+  height: 100%;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-hzbh-Xsn .frame-13-bmA .group-42-yWp .group-46-jF6 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.1rem;
+  font-weight: 500;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  color: #565c6e;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9f1ff;
+  border-radius: 1rem;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-hzbh-Xsn .frame-13-bmA .group-45-Qc8 {
+  width: 16.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.1rem;
+  font-weight: 500;
+  line-height: 1.3225;
+  letter-spacing: 0.1rem;
+  color: #565c6e;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9f1ff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe {
+  width: 100%;
+  height: 33.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 {
+  margin-right: 15.3rem;
+  width: 53.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .vector-5-MQt {
+  margin-bottom: 2.4rem;
+  width: 53.6rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .auto-group-tsko-hDr {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .auto-group-tsko-hDr .am-i-eligible-for-admission-Eja {
+  margin-right: 21.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .auto-group-tsko-hDr .item--9Lk {
+  text-align: right;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500s-when-an-unknown-printer-took-a-galley-of-type-and-scrambled-it-to-make-a-type-specimen-book-g5n {
+  margin-bottom: 2.1rem;
+  max-width: 52.1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  letter-spacing: 0.1rem;
+  color: #555555;
+  font-family: Red Hat Display, 'Source Sans Pro';
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .vector-6-WqW {
+  margin-bottom: 1.6rem;
+  width: 53.6rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .auto-group-3zqr-4c8 {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .auto-group-3zqr-4c8 .are-there-any-prerequisites-for-admission-p5W {
+  margin-right: 7.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .auto-group-3zqr-4c8 .item--vPS {
+  text-align: right;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .vector-7-TPN {
+  margin-bottom: 1.6rem;
+  width: 53.6rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .auto-group-4jhd-c1N {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .auto-group-4jhd-c1N .what-are-the-different-curriculums-offered-A2t {
+  margin-right: 5.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .auto-group-4jhd-c1N .item--sT6 {
+  text-align: right;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .vector-8-acQ {
+  margin-bottom: 1.6rem;
+  width: 53.6rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .auto-group-nfwt-XGk {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .auto-group-nfwt-XGk .how-do-i-apply-for-scholarships-H12 {
+  margin-right: 16.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .auto-group-nfwt-XGk .item--Bs6 {
+  text-align: right;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-48-S32 .vector-9-iME {
+  width: 53.6rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx {
+  width: 53.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .vector-5-C1W {
+  margin-bottom: 2.4rem;
+  width: 53.6rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .auto-group-kxpb-wjn {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .auto-group-kxpb-wjn .what-is-the-curriculum-transfer-process-VmJ {
+  margin-right: 10rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .auto-group-kxpb-wjn .item--1zY {
+  text-align: right;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500s-when-an-unknown-printer-took-a-galley-of-type-and-scrambled-it-to-make-a-type-specimen-book-95A {
+  margin-bottom: 2.1rem;
+  max-width: 52.1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  letter-spacing: 0.1rem;
+  color: #555555;
+  font-family: Red Hat Display, 'Source Sans Pro';
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .vector-6-PVJ {
+  margin-bottom: 1.6rem;
+  width: 53.6rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .auto-group-8h15-YNC {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .auto-group-8h15-YNC .what-documents-are-required-to-apply-twr {
+  margin-right: 9.4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .auto-group-8h15-YNC .item--p4p {
+  text-align: right;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .vector-7-LYx {
+  margin-bottom: 1.6rem;
+  width: 53.6rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .auto-group-ue11-VAx {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .auto-group-ue11-VAx .how-do-i-reach-out-to-the-team-3CU {
+  margin-right: 17.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .auto-group-ue11-VAx .item--kcg {
+  text-align: right;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .vector-8-sxC {
+  margin-bottom: 1.6rem;
+  width: 53.6rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .auto-group-iz3h-EXr {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .auto-group-iz3h-EXr .how-long-does-it-take-for-the-application-n3a {
+  margin-right: 6.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .auto-group-iz3h-EXr .item--tMW {
+  text-align: right;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1756-bz8 .auto-group-ksfv-gZe .group-49-Frx .vector-9-nxg {
+  width: 53.6rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cambridge-landing-page-N3a .group-1757-uGc {
+  box-sizing: border-box;
+  padding: 2.2rem 14.9rem 2.2rem 9.3rem;
+  width: 100%;
+  height: 23.7rem;
+  background-color: #ffebeb;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1757-uGc .group-1755-DHJ {
+  width: 100%;
+  height: 16.8rem;
+  display: flex;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .group-1757-uGc .group-1755-DHJ .group-1753-MeQ {
+  margin-right: 42.1rem;
+  width: 46.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1757-uGc .group-1755-DHJ .group-1753-MeQ .auto-group-ajd9-uA8 {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  height: 13rem;
+  position: relative;
+}
+.cambridge-landing-page-N3a .group-1757-uGc .group-1755-DHJ .group-1753-MeQ .auto-group-ajd9-uA8 .dps-group-01-1-2-Sfr {
+  width: 31.4rem;
+  height: 9.6rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 107.377% 100.334%;
+  background-position: -1.1153rem -0.016rem;
+  background-image: url('../assets/dps-group-01-1-2.png');
+}
+.cambridge-landing-page-N3a .group-1757-uGc .group-1755-DHJ .group-1753-MeQ .auto-group-ajd9-uA8 .dps-nacharam-has-been-at-the-forefront-of-providing-world-class-affordable-education-to-students-in-and-around-hyderabad-for-over-a-decade-vb2 {
+  width: 46.8rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 9.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3225;
+  color: #1e1e1e;
+  font-family: Red Hat Display, 'Source Sans Pro';
+}
+.cambridge-landing-page-N3a .group-1757-uGc .group-1755-DHJ .group-1753-MeQ .group-1752-n7S {
+  box-sizing: border-box;
+  padding: 0.1rem 0.15rem 0.1rem 0.7rem;
+  display: flex;
+  align-items: center;
+}
+.cambridge-landing-page-N3a .group-1757-uGc .group-1755-DHJ .group-1753-MeQ .group-1752-n7S .grommet-icons-facebook-option-6dv {
+  margin-right: 3.1671rem;
+  width: 1.0329rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1757-uGc .group-1755-DHJ .group-1753-MeQ .group-1752-n7S .akar-icons-instagram-fill-RgC {
+  margin-right: 2.65rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1757-uGc .group-1755-DHJ .group-1753-MeQ .group-1752-n7S .bytesize-twitter-A7z {
+  margin-top: 0.0598rem;
+  width: 2.1rem;
+  height: 1.7072rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1757-uGc .group-1755-DHJ .group-1754-gME {
+  margin: 2.7rem 0;
+  height: calc(100% - 5.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1757-uGc .group-1755-DHJ .group-1754-gME .contact-us-dGU {
+  margin-bottom: 2.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #a20606;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cambridge-landing-page-N3a .group-1757-uGc .group-1755-DHJ .group-1754-gME .plot-no44-uppal-mandal-42a-behind-bsnl-telephone-exchange-durga-nagar-nacharam-hyderabad-secunderabad-telangana-500076-x3r {
+  max-width: 38.1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
